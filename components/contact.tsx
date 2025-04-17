@@ -165,7 +165,7 @@ export function Contact() {
                     <h3 className="font-medium text-sm">Email Us</h3>
                     <p className="text-xs text-muted-foreground mt-1">Our friendly team is here to help</p>
                     <a
-                      href="mailto:efforts@effor.tech"
+                      href="mailto:hardikchaudhary713@gmail.com"
                       className="text-xs text-cyan-400 hover:underline mt-1 inline-block"
                     >
                       efforts@effor.tech
